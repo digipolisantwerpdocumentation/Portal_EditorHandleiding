@@ -3,7 +3,7 @@ _____________________________________
 
 ## Aanpassen footer 
 
-* Aanpassen logo, description, product categories titel, copyright en terms & conditions
+Aanpassen logo, description, product categories titel, copyright en terms & conditions
 
 * Linker menu item Content
 
