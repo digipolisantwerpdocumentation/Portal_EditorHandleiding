@@ -102,7 +102,11 @@ Aanpassen logo, description, product categories titel, copyright en terms & cond
 * Contact Email: email adres van het product zoals aangegeven in kolom D van spreadsheet 
 
 
-## Naming conventions (suggestie)
+## Naming conventions
+
+### Product
+* Administration name: naam van de engine/API
+* Slug : adm. name met verbindingsstreepjes
 
 ### Contact Person
 
