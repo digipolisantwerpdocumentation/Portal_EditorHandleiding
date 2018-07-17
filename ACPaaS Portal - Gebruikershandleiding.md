@@ -1,4 +1,4 @@
-# ACPaaS Portal - Gebruikershandleiding
+# ACPaaS Portal - Editorhandleiding
 _____________________________________
 
 ## Aanpassen footer 
